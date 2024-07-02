@@ -13,7 +13,7 @@ public class Main {
         System.out.println();
         System.out.println("Задача 2");
 
-        for (int i = 10; i >= 1; i--) { /// испльзуем декрмкент с постфиксной формой
+        for (int i = 10; i >= 1; i--) { /// испльзуем декримкент с постфиксной формой
             System.out.print(i + " ");
         }
         System.out.println();
